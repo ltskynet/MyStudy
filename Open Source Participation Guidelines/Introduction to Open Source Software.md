@@ -137,12 +137,19 @@ Uncertain pedigree: in some cases, it may be difficult to determine if contribut
 
 Provided "AS IS:" Thus, IBM bears possible risk of infringement upon distribution.
 
-****
+**"Copyleft", also known as the "Viral Effect"**
 
 Improper handling or use of certain OSS code (for example, Affero General Public License (AGPL), GNU General Public License (GPL), or GNU Lesser General Public License (LGPL) code) with or within IBM proprietary code may necessitate that IBM distribute our proprietary source code under the terms of licenses, such as the AGPL, GPL, or LGPL.
 
 
-****
+**Possible relinquishing of IBM's Intellectual Property rights**
 
-****
+Some licenses require a patent license grant (competitors may be able to use your inventions in their products without paying IBM a licensing fee). Even if not explicit, most licenses are assumed to have implicit grants. To maintain openness, IBM-approved OSS contributors are encouraged to submit invention disclosures relating to all innovative features.
+
+**"Contamination" (future development implications)**
+
+If you view source code and create substantially similar material in the future, that new material could be considered a "copy" and subject to the OSS license terms.
+
+- Special caution should be taken when looking at GPL (or other "copyleft" licensed) code. Copies of GPL licensed code must be distributed under the GPL license and cannot be relicensed.
+- To the extent the license, for example the BSD license, permits relicensing under a proprietary license, it is not an issue.
 
